@@ -58,7 +58,7 @@ header nav ul li a:hover {
 
 /* メインビジュアル */
 .main_visual {
-    background-image: url('../image/image1.jpg');
+    background-image: url('image/image1.jpg');
     background-size: cover;
     background-position: center center;
     position: relative;
@@ -356,7 +356,7 @@ footer ul li a:hover {
 
 /* 下層ページ共通 */
 .page_main_visual {
-    background-image: url('../image/image1.jpg');
+    background-image: url('image/image1.jpg');
     background-size: cover;
     background-position: center center;
     position: relative;
